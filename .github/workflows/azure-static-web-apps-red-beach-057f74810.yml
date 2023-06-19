@@ -31,3 +31,4 @@ jobs:
           output_location: ""
           app_build_command: "npm run build"
           api_build_command: ""
+          skip_deploy_on_missing_secrets: true
